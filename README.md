@@ -1,6 +1,8 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Millennium Falcom Shooter 🙃
 
-Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um joguinho de space shooter super legal! 
+Esse é o repositório de uma aula de Javascript, na qual fizemos um joguinho de space shooter super legal! A partir do código fornecido, eu alterei para personagens de Star Wars :D
+
+![image info](./img/example.png)
 
 ### Os requisitos são:
 
